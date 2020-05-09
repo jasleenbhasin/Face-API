@@ -1,3 +1,0 @@
-flask
-cmake
-face_recognition
